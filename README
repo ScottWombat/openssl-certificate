@@ -1,0 +1,7 @@
+Build docker image
+
+>docker build -t openssl-certificate .
+
+Run image
+
+>docker run -it openssl-certificate sh
